@@ -1,0 +1,8 @@
+Credentials cache: API:57990
+        Principal: fmoenne-@LE-101.FR
+
+  Issued                Expires               Principal
+Jul  2 08:42:23 2019  Jul  2 18:42:23 2019  krbtgt/LE-101.FR@LE-101.FR
+Jul  2 08:42:24 2019  Jul  2 18:42:23 2019  ldap/ldap-master.le-101.fr@LE-101.FR
+Jul  2 08:42:24 2019  Jul  2 18:42:23 2019  HTTP/san-ssd.le-101.fr@LE-101.FR
+Jul  2 08:46:21 2019  Jul  2 18:42:23 2019  host/vogsphere.le-101.fr@LE-101.FR
